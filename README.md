@@ -29,11 +29,18 @@ Event Handling:
 
 ## Getting started
 
-1. Click fork in the github repository located in the link I have provided
-2. Open your terminal
-3. Use the "cd" command to navigate into the directory where you would like to save the fork
-4. Use git clone to clone the repository into your local environment. Feel free to copy paste this into your terminal
-5. You can use the live-server extension on VScode to open the files in your preferred browser
+1. Click fork in the github repository located in the following link;
+
+[https://github.com/bmgwaro/Interactive-shopping-list]
+
+2. Open your terminal.
+3. Use the "cd" command to navigate into the directory where you would like to save the fork.
+4. Use git clone to clone the repository into your local environment. Feel free to copy paste this into your terminal;
+
+`git clone git@github.com:bmgwaro/Interactive-shopping-list.git`
+
+5. Now, navigate into the same directroy and type in the command "code ." in your terminal to open the files on your text editor.
+6. You can use the live-server extension on VScode to open the files in your preferred browser.
 
 ## Using the application
 
