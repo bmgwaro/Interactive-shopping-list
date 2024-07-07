@@ -1,5 +1,7 @@
 # Interactive Shopping List
 
+## Description
+
 The following is a simple web application aimed at designing an interactive shopping list. The main purpose of the challenge is to make use of DOM manipulation, array iteration and event handling techniques.
 
 ## Prerequisites
@@ -21,11 +23,11 @@ Event Handling:
 ## Requirements
 
 - Node environment
-- 1GB free disc space
+- 2GB free disc space
 - 2GB RAM
 - Operating system
 - Text editor
-- Browser
+- Browser console
 
 ## Getting started
 
@@ -51,8 +53,10 @@ _NB: This application has three main features;_
 
 - An "add" button that allows you to add your item to the shopping list.
 
-- A "mark purchased" button which allows the user to mark all items in the list as purchased.
+- A "mark purchased" button which allows the user to mark all items in the list as purchased. Purchased items should have a green background color.
 
 **Note that you can also click on each one of the items in the list in order to independently mark the clicked item as already purchased**
 
 - A "clear list" button that allows the user to delete all the items from their shopping list after they are done with their shopping.
+
+_Once you click on the clear list button, you would have to refresh the page in order to use the application to make a new shopping list_
