@@ -61,6 +61,6 @@ _NB: This application has three main features;_
 
 _Once you click on the clear list button, you would have to refresh the page in order to use the application to make a new shopping list_
 
-Finally, here is the link to my live page; 
+Finally, here is the link to my live page;
 
 [https://bmgwaro.github.io/Interactive-shopping-list/]

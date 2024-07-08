@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
     <title>Interactive Shopping List</title>
   </head>
   <body>
@@ -12,26 +12,19 @@
 
       <form id="items" action="#">
         <label for="shopping_items">Enter item to be shopped:</label>
-        <input
-          type="text"
-          id="shopping_items"  
-          placeholder="Enter item here"
-        />
+        <input type="text" id="shopping_items" placeholder="Enter item here" />
+        <button id="add">Add</button>
       </form>
-    </div>  
+    </div>
 
     <h2>My shopping list:</h2>
     <div id="list_output">
-        <ul id="listed">
-            
-        </ul>
+      <ul id="listed"></ul>
     </div>
 
-    <button id="add">Add</button>
     <button id="markPurchased">Mark Purchased</button>
     <button id="clearList">Clear List</button>
 
-     <script src="./script.js"></script>
-    
+    <script src="./script.js"></script>
   </body>
 </html>
