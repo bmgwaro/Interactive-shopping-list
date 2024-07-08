@@ -60,3 +60,7 @@ _NB: This application has three main features;_
 - A "clear list" button that allows the user to delete all the items from their shopping list after they are done with their shopping.
 
 _Once you click on the clear list button, you would have to refresh the page in order to use the application to make a new shopping list_
+
+Finally, here is the link to my live page; 
+
+[https://bmgwaro.github.io/Interactive-shopping-list/]
